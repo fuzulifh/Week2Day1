@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Week2App2, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Week2App2 -> C:\Users\fuzulifh\Desktop\PB501Project\Week2App2\Week2App2\bin\Debug\net7.0\Week2App2.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:00.231 ==========
